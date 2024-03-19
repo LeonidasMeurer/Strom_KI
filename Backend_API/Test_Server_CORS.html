@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Test</h1>
+    <script>
+async function fetchData() {
+
+  try {
+    const response_photo = await fetch('http://127.0.0.1:5002/predict_photovoltaik?forecast_days=1');
+    const data_photo = await response_photo.json(); 
+    // Hier kannst du die JSON-Daten weiterverarbeiten oder zwischenspeichern
+    console.log('JSON-Daten:', data_photo);
+
+    const response_off = await fetch('http://127.0.0.1:5002/predict_on_shore?forecast_days=1');
+    const data_off = await response_off.json(); 
+    // Hier kannst du die JSON-Daten weiterverarbeiten oder zwischenspeichern
+    console.log('JSON-Daten:', data_off);
+
+    const response_on = await fetch('http://127.0.0.1:5002/predict_off_shore?forecast_days=1');
+    const data_on = await response_on.json(); 
+    // Hier kannst du die JSON-Daten weiterverarbeiten oder zwischenspeichern
+    console.log('JSON-Daten:', data_on);
+
+    const response_power = await fetch('http://127.0.0.1:5002/predict_power');
+    const data_power = await response_power.json(); 
+    // Hier kannst du die JSON-Daten weiterverarbeiten oder zwischenspeichern
+    console.log('JSON-Daten:', data_power);
+
+    const response_price = await fetch('http://127.0.0.1:5002/predict_price');
+    const data_price = await response_price.json(); 
+    // Hier kannst du die JSON-Daten weiterverarbeiten oder zwischenspeichern
+    console.log('JSON-Daten:', data_price);
+
+  } catch (error) {
+    console.error('Fehler beim Abrufen der Daten:', error.message);
+  }
+}
+
+fetchData();
+    </script>   
+</body>
+</html>

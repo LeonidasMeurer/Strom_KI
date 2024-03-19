@@ -1,0 +1,6 @@
+Flask
+flask_cors
+flask-sqlalchemy
+flask-bcrypt
+redis
+flask-Mail
