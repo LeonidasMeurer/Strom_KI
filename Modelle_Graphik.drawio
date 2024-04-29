@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:35:33.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="tm6dBaqAQOcPbL8lKwEa" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:45:31.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="ugSJixTZWqY3-rpltE61" version="22.1.18" type="github">
   <diagram name="Seite-1" id="h_aolHuRf2uVVvUkTN-p">
     <mxGraphModel dx="1380" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,25 +13,25 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-1" target="WT3FOVsXD3ykE8AdMwVh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-1" value="OpenMeteo&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fillStyle=auto;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-1" value="OpenMeteo&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#E0E0E0;fillStyle=auto;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-5" value="historische Off_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-5" value="historische Off_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-6" value="historische&amp;nbsp; On_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbd4fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-6" value="historische&amp;nbsp; On_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-7" value="historische&amp;nbsp; Photovoltaik Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-7" value="historische&amp;nbsp; Photovoltaik Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-9" value="Off_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-9" value="Off_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-10" value="On_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#dad4fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-10" value="On_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" parent="1" vertex="1">
           <mxGeometry x="520" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-11" value="Photovoltaik Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#f1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-11" value="Photovoltaik Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-22" target="WT3FOVsXD3ykE8AdMwVh-24" edge="1">
@@ -43,16 +43,16 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-22" target="WT3FOVsXD3ykE8AdMwVh-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-22" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-22" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-24" value="historische Off_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-25" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dad4fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-25" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-26" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-26" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-37" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;" parent="1" vertex="1">
@@ -97,16 +97,16 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-58" target="WT3FOVsXD3ykE8AdMwVh-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-58" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-58" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-59" value="historische Off_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-60" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dad4fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-60" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-61" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-61" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-62" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
@@ -121,16 +121,16 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-69" target="WT3FOVsXD3ykE8AdMwVh-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-69" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-69" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="220" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-70" value="historische Stromverbrauch&amp;nbsp;&lt;br&gt;Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="300" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-71" value="historische&amp;nbsp;&lt;br&gt;Residuallast&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-71" value="historische&amp;nbsp;&lt;br&gt;Residuallast&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="300" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-72" value="historische&amp;nbsp;&lt;br&gt;Pumpspeicher&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0B0B0;strokeColor=#c2c2c2;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-72" value="historische&amp;nbsp;&lt;br&gt;Pumpspeicher&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="300" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-73" value="OUTPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
@@ -142,7 +142,7 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-77" value="Sinus &amp;amp; Cosinus&lt;br&gt;Funktionen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="80" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-78" value="Netzlast&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#dbf1d5;strokeColor=#7ea573;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-78" value="Netzlast&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" parent="1" vertex="1">
           <mxGeometry x="520" y="710" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -169,16 +169,16 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-91" target="WT3FOVsXD3ykE8AdMwVh-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-91" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-91" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry y="1000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-92" value="historische Off_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-93" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dad4fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-93" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-94" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-94" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-95" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
@@ -190,10 +190,10 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-97" value="historische Stromverbrauch&amp;nbsp;&lt;br&gt;Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="80" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-98" value="historische&amp;nbsp;&lt;br&gt;Residuallast&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-98" value="historische&amp;nbsp;&lt;br&gt;Residuallast&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="80" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-99" value="historische&amp;nbsp;&lt;br&gt;Pumpspeicher&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0B0B0;strokeColor=#c2c2c2;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-99" value="historische&amp;nbsp;&lt;br&gt;Pumpspeicher&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="80" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-103" value="" style="shape=cross;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -202,16 +202,16 @@
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WT3FOVsXD3ykE8AdMwVh-117" target="WT3FOVsXD3ykE8AdMwVh-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-117" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-117" value="SMARD&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="220" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-120" value="historische&amp;nbsp;&lt;br&gt;Strompreis&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-120" value="historische&amp;nbsp;&lt;br&gt;Strompreis&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="300" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-121" value="OUTPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="1100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WT3FOVsXD3ykE8AdMwVh-123" value="Preis&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="WT3FOVsXD3ykE8AdMwVh-123" value="Preis&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" parent="1" vertex="1">
           <mxGeometry x="520" y="1390" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT3FOVsXD3ykE8AdMwVh-124" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -229,25 +229,25 @@
         <mxCell id="1oFfMzoRjSJWitpHKZoY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-4" target="1oFfMzoRjSJWitpHKZoY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-4" value="OpenMeteo&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fillStyle=auto;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-4" value="OpenMeteo&lt;br&gt;API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#E0E0E0;fillStyle=auto;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry y="1760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-5" target="1oFfMzoRjSJWitpHKZoY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-5" value="Off_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-5" value="Off_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-6" target="1oFfMzoRjSJWitpHKZoY-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-6" value="On_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbd4fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-6" value="On_Shore Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-7" target="1oFfMzoRjSJWitpHKZoY-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-7" value="Photovoltaik Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-7" value="Photovoltaik Wetter Daten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-8" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;" vertex="1" parent="1">
@@ -256,19 +256,19 @@
         <mxCell id="1oFfMzoRjSJWitpHKZoY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-9" target="1oFfMzoRjSJWitpHKZoY-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-9" value="Off_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-9" value="Off_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" vertex="1" parent="1">
           <mxGeometry x="240" y="1910" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-10" target="1oFfMzoRjSJWitpHKZoY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-10" value="On_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#dad4fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-10" value="On_Shore Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" vertex="1" parent="1">
           <mxGeometry x="240" y="1990" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-11" target="1oFfMzoRjSJWitpHKZoY-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-11" value="Photovoltaik Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#f1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-11" value="Photovoltaik Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" vertex="1" parent="1">
           <mxGeometry x="240" y="2070" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-15" target="1oFfMzoRjSJWitpHKZoY-22">
@@ -314,7 +314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-16" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dad4fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-16" value="historische On_Shore Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-17" target="1oFfMzoRjSJWitpHKZoY-22">
@@ -337,7 +337,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-17" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-17" value="historische Photovoltaik Stromdaten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-18" value="OUTPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
@@ -352,7 +352,7 @@
         <mxCell id="1oFfMzoRjSJWitpHKZoY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-22" target="1oFfMzoRjSJWitpHKZoY-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-22" value="Netzlast&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#dbf1d5;strokeColor=#7ea573;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-22" value="Netzlast&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" vertex="1" parent="1">
           <mxGeometry x="240" y="2180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-26" target="1oFfMzoRjSJWitpHKZoY-22">
@@ -389,7 +389,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-29" value="Residuallast&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-29" value="Residuallast&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-30" target="1oFfMzoRjSJWitpHKZoY-34">
@@ -402,16 +402,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-30" value="Pumpspeicher&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0B0B0;strokeColor=#c2c2c2;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-30" value="Pumpspeicher&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="2340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1oFfMzoRjSJWitpHKZoY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1oFfMzoRjSJWitpHKZoY-34" target="1oFfMzoRjSJWitpHKZoY-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-34" value="Preis&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-34" value="Preis&lt;br&gt;Model" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;" vertex="1" parent="1">
           <mxGeometry x="240" y="2450" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1oFfMzoRjSJWitpHKZoY-42" value="Strompreis&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1oFfMzoRjSJWitpHKZoY-42" value="Strompreis&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daten&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
